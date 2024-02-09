@@ -193,7 +193,7 @@ input[type=radio]:checked ~ form {
 .main_visual .main_btn:hover {
     font-weight: 300;
     color: white;
-    background-color: rgba(227, 2, 34, 0.8);
+    background-color: rgba(227, 2, 34, 0.9);
 }
 .main_visual .main_title {
     position: absolute;
@@ -370,7 +370,7 @@ input[type=radio]:checked ~ form {
 #blend .spring_blend_btn:hover {
     font-weight: 300;
     color: white;
-    background-color: #eb4b68;
+    background-color: #e74260;
     border: 2px solid #eb4b68;
 }
 
